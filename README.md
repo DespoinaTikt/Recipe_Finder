@@ -23,6 +23,6 @@ I locate the url and test my website.
 ![Screenshot (144)](https://github.com/DespoinaTikt/AWS_S3_Recipe_Finder/assets/166096217/5b463ed5-2ffc-45be-9e4e-2316393a3cd6)
 ![Screenshot (145)](https://github.com/DespoinaTikt/AWS_S3_Recipe_Finder/assets/166096217/b64432ae-6328-4bca-a8e6-7fc58407c36a)
 
-It is successful. You can also visit it here http://babyrecipesbucket.s3-website.eu-north-1.amazonaws.com
+It is successfully uploaded. You can also visit it here http://babyrecipesbucket.s3-website.eu-north-1.amazonaws.com
 
 
