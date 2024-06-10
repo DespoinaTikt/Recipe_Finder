@@ -1,6 +1,7 @@
 # AWS_S3_Recipe_Finder
 
-Based on my previous static website hosted on an S3 bucket, whick contained baby friendly recipes, I decided to create a new, improved one, that would work as a recipe finder.
+As I am practicing using the AWS services, I decided to build a static website on an S3 bucket, which would work as a recipe finder, containing all the baby friendly recipes that I introduced in a previous repository.
+
 
 ## Create bucket
 
@@ -12,7 +13,7 @@ First, I create my bucket, enable static web hosting and public access, and assi
 
 ## Upload html file as an object
 
-Then I upload the html file.
+Moving on, I asked ChatGpt to help me transform the Python script into an HTML file and then I upload the html file into my bucket.
 
 ![Screenshot (143)](https://github.com/DespoinaTikt/AWS_S3_Recipe_Finder/assets/166096217/91abf7f3-5dd6-4be0-8a19-a62fb50154bd)
 
