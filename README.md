@@ -13,7 +13,7 @@ First, I create my bucket, enable static web hosting and public access, and assi
 
 ## Upload html file as an object
 
-Moving on, I asked ChatGpt to help me transform the Python script into an HTML file and then I upload the html file into my bucket.
+Moving on, I upload the appropriate file into my bucket.
 
 ![Screenshot (143)](https://github.com/DespoinaTikt/AWS_S3_Recipe_Finder/assets/166096217/91abf7f3-5dd6-4be0-8a19-a62fb50154bd)
 
