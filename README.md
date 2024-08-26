@@ -1,4 +1,4 @@
-# AWS_S3_Recipe_Finder
+# Recipe_Finder
 
 As I am practicing using the AWS services, I decided to build a static website on an S3 bucket, which would work as a recipe finder, containing all the baby friendly recipes that I introduced in a previous repository.
 
